@@ -1,6 +1,6 @@
 {
   "name": "preact-onsen",
-  "description": "Preact for onsen ui.",
+  "description": "Create beautiful high-quality hybrid mobile apps the fastest way with Peact and Onsen UI Framework.",
   "main": "dist/preact-onsen.js",
   "authors": [
     "afei"

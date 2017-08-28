@@ -1,5 +1,5 @@
 # preact-onsen
-> Preact for onsen ui.
+> Create beautiful high-quality hybrid mobile apps the fastest way with Peact and Onsen UI Framework.
 
 
 ## resources:
